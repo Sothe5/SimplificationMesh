@@ -1,6 +1,6 @@
 # SimplificationMesh
 
-Most of this code does not belong to me. It belongs to Dr.Hamish Carr lecturer at the University of Leed which gave us this files as templates.
+### Most of this code does not belong to me. It belongs to Dr.Hamish Carr lecturer at the University of Leed which gave us this files as templates.
 
 Our task was to modify them to be able to have a final application to do the following: when moving an slider made with QT which indicates
 the percentage of simplification of a mesh we need to delete vertices to perform the simplification of the mesh.
