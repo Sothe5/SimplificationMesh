@@ -16,3 +16,13 @@ Our policy to select which vertex will be the next to be removed is, removing fi
 For linux machines download and install QT and execute ./compile.sh it is a file I created to execute all the commands to compile
 
 To execute the compiled files use: ./nameFolder ./diredgenormals/fileName.diredgenormal
+
+# Results
+
+Initial Model:
+
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
+Around 50% of the vertices of the original model removed:
+
+99% of the vertices of the original model removed:
