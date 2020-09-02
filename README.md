@@ -21,8 +21,12 @@ To execute the compiled files use: ./nameFolder ./diredgenormals/fileName.diredg
 
 Initial Model:
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+<img src="/InitialModel.jpg" width="300" height="300">
 
 Around 50% of the vertices of the original model removed:
 
+<img src="/Around50PercentRemoved.jpg" width="300" height="300">
+
 99% of the vertices of the original model removed:
+
+<img src="/99PercentRemoved.jpg" width="300" height="300">
